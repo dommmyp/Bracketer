@@ -1,0 +1,11 @@
+.main-page{
+    position: fixed;
+    top: 0;
+    right: 0;
+    width: 80vw;
+    overflow: auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}

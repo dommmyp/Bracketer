@@ -1,0 +1,21 @@
+.bracket-wrapper-four{
+    display:grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    width: 80vw;
+}
+
+.bracket-wrapper{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr  ;
+    width: 200vw;
+}
+.bracket-filler{
+    width: 100px;
+}
+.bracket-round{
+    display: flex;
+    height: 100%;
+    flex-direction: column;
+    justify-content: space-between;
+
+}
